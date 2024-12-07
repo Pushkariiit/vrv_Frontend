@@ -57,35 +57,7 @@ RBAC/
 └── README.md                # Project README file
 ```
 
----
 
-## **Setup and Installation**
-
-Follow these steps to run the project locally or deploy it.
-
-### **Local Setup**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hariz-coder/RABC-UI.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd rbac
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and go to `http://localhost:3000`.
-
----
-
-## **Usage Instructions**
 
 ### **Dashboard**
 - View a list of users along with their roles and permissions.
@@ -103,14 +75,4 @@ Follow these steps to run the project locally or deploy it.
 1. Access the **Permission Management** section.
 2. Assign permissions to roles or edit existing permissions.
 
----
 
-## **License**
-This project is licensed under the MIT License.
-
----
-
-## **Contact**
-For any inquiries or feedback:  
-- **Email**: [harib1373@gmail.com]  
-- **GitHub**: [https://github.com/hariz-coder/RABC-UI.git]
